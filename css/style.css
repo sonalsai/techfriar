@@ -426,7 +426,7 @@
    border-width: 3px;
    position: absolute;
    left: 0px;
-  top: 145px;
+   top: 145px;
    backdrop-filter: blur(10px);
   }
 
@@ -435,7 +435,6 @@
    border-width: 4px;
    border-style: solid;
    border-image: linear-gradient(90deg, rgba(58, 25, 41, 1.00) 0%,rgba(58, 25, 41, 0.00) 100%);
-   border-image-slice: 1;
    position: absolute;
    left: 36.54px;
   top: 145px;
@@ -447,7 +446,6 @@
    border-width: 4px;
    border-style: solid;
    border-image: linear-gradient(90deg, rgba(58, 25, 41, 1.00) 0%,rgba(58, 25, 41, 0.00) 72.87659645080566%);
-   border-image-slice: 1;
    position: absolute;
    left: 73.09px;
   top: 145px;
