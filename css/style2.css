@@ -80,7 +80,7 @@ body{
     justify-content: center;
     flex-shrink: 0;
     position: relative;
-    top: -20px;
+    top: 0px;
    }
 
 .new-m-t-btn {
@@ -2176,13 +2176,16 @@ body{
    box-sizing: border-box;
 }
 .sidebar-menu {
-  padding: 50px 0px 50px 0px;
+   padding: 50px 0px 50px 0px;
    display: flex;
-            flex-direction: column;
-            gap: 100px;
-            align-items:flex-start;
-            justify-content: flex-start;
-            position: sticky;
+   flex-direction: column;
+   gap: 100px;
+   align-items:flex-start;
+   justify-content: flex-start;
+   position: absolute;
+   top: 116px;
+   width: 126px;
+   height: 1274px;
 }
        
         .frame-33577 {
