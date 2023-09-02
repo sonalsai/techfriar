@@ -157,16 +157,20 @@ body {
 .signin-font {
     color: var(--Secondary-Blue, #0ED2F6);
     font-family: "Poppins", sans-serif;
-    font-size: 2.5vw; /* Use vw for responsive font size */
+    font-size: 2.5vw;
+    /* Use vw for responsive font size */
     font-weight: 600;
-    line-height: 1.2; /* Use relative line-height */
-    text-align: center; /* Center text for responsive design */
+    line-height: 1.2;
+    /* Use relative line-height */
+    text-align: center;
+    /* Center text for responsive design */
 }
 
 /* Media query for smaller screens */
 @media (max-width: 768px) {
     .signin-font {
-        font-size: 4vw; /* Adjust font size for smaller screens */
+        font-size: 4vw;
+        /* Adjust font size for smaller screens */
     }
 }
 
